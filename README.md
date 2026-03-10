@@ -1,4 +1,4 @@
-# Hi there, I'm **Ghada** 👋🤖
+# Hi there, I'm **Ghada**
 
 <div align="center">
 
@@ -18,38 +18,6 @@
 </div>
 
 ---
-
-## 🤖 About Me
-
-```python
-class Ghada:
-    def __init__(self):
-        self.name        = "Ghada"
-        self.role        = ["ROS2 Developer", "Electronic Engineer"]
-        self.languages   = ["Python", "C++", "MATLAB"]
-        self.frameworks  = ["ROS2", "ROS1", "OpenCV", "Gazebo"]
-        self.hardware    = ["Arduino", "Jetson Nano", "ESP32"]
-        self.current     = "Making robots smarter, one node at a time 🦾"
-        self.fun_fact    = "I debug robots the same way I debug life — with logs 📋"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something awesome 🚀")
-
-me = Ghada()
-me.say_hi()
-```
-
----
-
-## 🚀 Current Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🦿 **Autonomous Nav Bot** | Mobile robot with SLAM & obstacle avoidance | ROS2, LiDAR, Nav2 |
-| 🧠 **ROS2 Vision Pipeline** | Real-time object detection for robot perception | Python, OpenCV, ROS2 |
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -58,19 +26,15 @@ me.say_hi()
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
 ### 🔧 Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Gazebo](https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 

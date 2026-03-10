@@ -17,7 +17,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+robots+that+actually+work+%F0%9F%A4%96;ROS2+%7C+C%2B%2B+%7C+Python+%7C+Embedded+Systems;Electronics+Engineer+by+day%2C+Robot+hacker+by+night;Coffee+%E2%98%95+%2B+Circuits+%3D+Magic+%E2%9C%A8)](https://git.io/typing-svg)
 
-</div>
+</div align="center">
 
 ---
 ## 🛠️ Tech Stack

@@ -24,8 +24,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 *"The best robot is the one that doesn't need you anymore."*

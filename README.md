@@ -8,13 +8,6 @@
 
 </div align="center">
 
----
-## Tech Stack
-
-<div align="center">
-
----
-
 ## Fun Facts
 
 - I talk to robots more than people (they listen better)

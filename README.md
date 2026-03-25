@@ -13,8 +13,6 @@
 - I talk to robots more than people (they listen better)
 - My dream? A fully autonomous robot that makes me Qahwa ☕
 
----
-
 ## Let's Connect
 
 <div align="center">
